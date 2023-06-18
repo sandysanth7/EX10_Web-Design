@@ -19,6 +19,7 @@
 
 
 ## OUTPUT
+![santhoshoutput10](https://github.com/sandysanth7/EX10_Web-Design/assets/127816678/45f25ec8-6f94-4928-97a5-2600c7651565)
 
 
 ## RESULT
